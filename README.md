@@ -33,4 +33,5 @@ visit localhost:3000 in your browser
 
 Demo video:
 
-ketcher_scroll_issue.mp4
+https://github.com/user-attachments/assets/9db5c421-23c6-49b6-8e29-4ec6e911bbb9
+
