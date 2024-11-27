@@ -30,3 +30,7 @@ npm run preview
 ```
 
 visit localhost:3000 in your browser
+
+Demo video:
+
+ketcher_scroll_issue.mp4
